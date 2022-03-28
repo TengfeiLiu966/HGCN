@@ -7,4 +7,5 @@ An implement of Hierarchical Graph Convolutional Networks for Structured Long Do
 
 ## Easy Run
 > cd src/
+> 
 > python train.py
