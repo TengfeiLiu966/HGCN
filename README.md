@@ -9,4 +9,4 @@ An implement of Hierarchical Graph Convolutional Networks for Structured Long Do
 > cd src/ 
 > python train.py
 
-The exAAPD dataset can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1g9s_UiaTVC0GK80s56tiR-Tby-Jbi-wy?usp=sharing). For the other three datasets, due to the copyright issues, they can't be shared publicly. If needed, you can contact us for download authorization.
+The exAAPD and exLitCovid datasets can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1g9s_UiaTVC0GK80s56tiR-Tby-Jbi-wy?usp=sharing) and [Google Drive](https://drive.google.com/drive/folders/1fKFqXa0KgTo8NOsiUtipkgoZfgJ2_AK3?usp=sharing), respectively. For the other two datasets, due to the copyright issues, they can't be shared publicly. If needed, you can contact us for download authorization.
